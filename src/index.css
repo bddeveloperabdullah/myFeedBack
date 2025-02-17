@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-roboto: "Roboto", serif;
+  --font-lexend: "Lexend", serif;
+  --color-primary: #1677bd;
+  --color-secondary: #1e1e1e;
+  --color-accent: #232323;
+  --color-acent2: #afafaf;
+}
