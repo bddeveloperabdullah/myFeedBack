@@ -8,4 +8,10 @@
   --color-secondary: #1e1e1e;
   --color-accent: #232323;
   --color-acent2: #afafaf;
+  --shadow-searhShadow: 0px 12px 20px 0px #00000005;
+}
+
+/* Reuse Code  */
+.footerHeading {
+  @apply text-xl font-bold font-lexend leading-[25px];
 }
