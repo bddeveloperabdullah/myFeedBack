@@ -38,6 +38,9 @@ const Footer = () => {
               </div>
             </div>
           </div>
+          <div className="text-center font-bold font-roboto mt-10">
+            <p>{`copyright © February ${new Date().getFullYear()} myfeedback, designed by scott `}</p>
+          </div>
         </Container>
       </footer>
     </>

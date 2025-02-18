@@ -15,3 +15,6 @@
 .footerHeading {
   @apply text-xl font-bold font-lexend leading-[25px];
 }
+.sliderArrow {
+  @apply size-[59px] bg-white flex justify-center items-center rounded-full cursor-pointer z-50;
+}

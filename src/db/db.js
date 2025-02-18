@@ -57,3 +57,49 @@ export const footerMenu = {
     },
   ],
 };
+
+/**
+ * @public slider Card
+ */
+export const sliderCard = [
+  {
+    id: 1,
+    photo: "1.png",
+    title: "Bottega",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "876 reviews",
+    },
+  },
+  {
+    id: 2,
+    photo: "2.png",
+    title: "Bottega",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 3,
+      totalReview: "876 reviews",
+    },
+  },
+  {
+    id: 3,
+    photo: "3.png",
+    title: "Bottega",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 4,
+      totalReview: "876 reviews",
+    },
+  },
+  {
+    id: 4,
+    photo: "1.png",
+    title: "Bottega",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "876 reviews",
+    },
+  },
+];
