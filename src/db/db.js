@@ -277,3 +277,72 @@ export const recentItem = [
     photo: ["recent1.png", "recent2.png", "recent3.png"],
   },
 ];
+
+/**
+ * @public All Resturant
+ */
+export const allResturant = [
+  {
+    photo: "1.png",
+    title: "The snug",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "2.png",
+    title: "Bottega",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "3.png",
+    title: "Little Shucker",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "4.png",
+    title: "Lokma",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "5.png",
+    title: "Starbelly",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "6.png",
+    title: "The melt",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+  {
+    photo: "7.png",
+    title: "Enjoy",
+    desc: "The lorem ipsum is, in printing, a series of meaningless words used temporarily to calibrate a layout.",
+    review: {
+      star: 5,
+      totalReview: "875 review",
+    },
+  },
+];

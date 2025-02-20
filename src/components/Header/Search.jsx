@@ -3,7 +3,6 @@ import Container from "../../similar/Container";
 import { TfiLayoutLineSolid } from "react-icons/tfi";
 import { IoIosSearch } from "react-icons/io";
 import { TbWorld } from "react-icons/tb";
-import NavBar from "./NavBar";
 import { NavLink } from "react-router-dom";
 
 const Search = () => {
@@ -43,7 +42,6 @@ const Search = () => {
             </div>
           </Container>
         </div>
-        <NavBar />
       </header>
     </>
   );
