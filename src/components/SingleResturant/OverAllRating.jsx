@@ -15,7 +15,7 @@ const OverAllRating = () => {
                   Overall rating
                 </SectionTitle>
                 <p className="font-roboto mt-5 text-acent2">874 reviews</p>
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 mt-5">
                   <Star />
                   <Star />
                   <Star />
