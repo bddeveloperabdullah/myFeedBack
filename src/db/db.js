@@ -346,3 +346,49 @@ export const allResturant = [
     },
   },
 ];
+
+/**
+ * @public moreInfo
+ */
+export const moreInfo = {
+  infoItem: [
+    {
+      icon: "resturantItem1.png",
+      itemName: "See the menu",
+    },
+    {
+      icon: "resturantItem5.png",
+      itemName: "+847 87 37 29 01",
+    },
+    {
+      icon: "resturantItem2.png",
+      itemName: "Singapour, Bishan",
+    },
+    {
+      icon: "resturantItem3.png",
+      itemName: "7j/7, 08:00 - 22:00",
+    },
+    {
+      icon: "resturantItem4.png",
+      itemName: "www.bellaitalia.com",
+    },
+  ],
+  socialInfo: [
+    {
+      icon: "fb.png",
+      url: "#",
+    },
+    {
+      icon: "insta.png",
+      url: "#",
+    },
+    {
+      icon: "tiktok.png",
+      url: "#",
+    },
+    {
+      icon: "whatsapp.png",
+      url: "#",
+    },
+  ],
+};
